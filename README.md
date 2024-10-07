@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hello, I'm Hamptonix
 
-- 🔭 I’m currently working on Cube 3
-- 🌱 I’m currently learning Lua, HTML, CSS, Skript
-- 👯 I’m looking to collaborate on Void11
-- 🤔 I’m looking for help with Github
-- 📫 How to reach me: @hamptonix on Discord or any of my linked socials
-- 😄 Pronouns: he/him
+- I’m currently working on Cube 3
+- I’m currently learning Lua, HTML, CSS, Skript
+- I’m looking to collaborate on Void11
+- I’m looking for help with Github
+- How to reach me: @hamptonix on Discord or any of my linked socials
+- Pronouns: he/him
 
 <!--
 **Hamptonix/Hamptonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
