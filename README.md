@@ -1,5 +1,7 @@
 ## Hello, I'm Hamptonix
 
+![](https://komarev.com/ghpvc/?username=hamptonix&color=brightgreen)
+
 - I’m currently working on Cube 3
 - I’m currently learning Lua, HTML, CSS, Skript
 - I’m looking to collaborate on Void11
