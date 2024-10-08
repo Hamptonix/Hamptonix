@@ -1,9 +1,10 @@
 ## Hello, I'm Hamptonix
 
+<h3 align="center" class="heading-element" dir="auto">I’m currently learning Lua, HTML, CSS, Skript</h3>
+
 ![](https://komarev.com/ghpvc/?username=hamptonix&color=brightgreen)
 
 - I’m currently working on Cube 3
-- I’m currently learning Lua, HTML, CSS, Skript
 - I’m looking to collaborate on Void11
 - I’m looking for help with Github
 - How to reach me: @hamptonix on Discord or any of my linked socials
