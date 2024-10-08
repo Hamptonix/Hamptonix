@@ -3,7 +3,6 @@
 <h3 align="center" class="heading-element" dir="auto">I’m currently learning Lua, HTML, CSS, Skript</h3>
 
 ![](https://komarev.com/ghpvc/?username=hamptonix&color=brightgreen)
-<img src="https://komarev.com/ghpvc/?username=hamptonix&color=brightgreen" alt="Profile Views" data-canonical-src="https://komarev.com/ghpvc/?username=hamptonix&color=brightgreen" style="max-width: 100%;">
 
 - I’m currently working on Cube 3
 - I’m looking to collaborate on Void11
