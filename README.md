@@ -9,6 +9,8 @@
 
 <p align="center">- All of my projects are available <a href="https://github.com/Hamptonix?tab=repositories">here</a></p>
 
+<p align="center">- You can find my personal website <a href="https://hamptonix.carrd.co">here</a></p>
+
 <p align="center">- You can email my personal email <a href="https://mail.google.com/mail/u/?authuser=cheezit3418@gmail.com">here</a></p>
 
 <p align="center">- You can also check out my friend <a href="https://github.com/lostsucks">Lostsucks</a> if your interested in Skript </p>
