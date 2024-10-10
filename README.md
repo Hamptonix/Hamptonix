@@ -2,7 +2,7 @@
 <h3 align="center">I’m currently learning Lua, HTML, CSS, Javascript, and Skript</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamptonix&label=Profile%20views&color=0e75b6&style=flat" alt="hamptonix" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/hamptonix" alt="hamptonix" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/hamptonix" alt="HamptonixProfileViews" /> </p>
 
 
 <p align="center">- I'm currently working on <a href="https://cube2.carrd.co/">Cube3</a></p>
