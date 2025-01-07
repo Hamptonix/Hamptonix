@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/hamptonix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamptonix_" height="30" width="40" /></a>
+<a href="https://instagram.com/eliahamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamptonix_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hamptonix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamptonix" height="30" width="40" /></a>
 <a href="https://guns.lol/hamptonix" target="_blank" rel="noreferrer"> <img align="center" src="https://assets.guns.lol/guns_logo_no_background_cropped.png" alt="guns.lol" width="40" height="40"/> </a>
 <a href="https://hamptonix.carrd.co" target="_blank" rel="noreferrer"> <img align="center" src="https://logosandtypes.com/wp-content/uploads/2020/07/hashicorp.svg" alt="carrd.co" width="40" height="40"/> </a>
