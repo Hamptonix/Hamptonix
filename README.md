@@ -5,13 +5,12 @@
 <p align="center"> <img src="https://img.shields.io/github/followers/hamptonix" alt="HamptonixFollowers" /> </p>
 
 
-<p align="center">- I'm currently working on <a href="https://cube2.carrd.co/">Cube3</a></p>
+<p align="center">- I'm currently working on my <a href="https://hamptonix.me/">website</a></p>
 
 <p align="center">- All of my projects are available <a href="https://github.com/Hamptonix?tab=repositories">here</a></p>
 
 <p align="center">- You can email my personal email <a href="https://mail.google.com/mail/u/?authuser=cheezit3418@gmail.com">here</a></p>
 
-<p align="center">- You can also check out my friend <a href="https://github.com/lostsucks">Lostsucks</a> if your interested in Skript </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
