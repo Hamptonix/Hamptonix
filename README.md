@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello, I'm Hamptonix</h1>
-<h3 align="center">I’m currently learning Lua, HTML, CSS, Javascript, and Skript</h3>
+<h3 align="center">Level 10000 Vibecoder</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamptonix&label=Profile%20views&color=0e75b6&style=flat" alt="HamptonixProfileViews" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/hamptonix" alt="HamptonixFollowers" /> </p>
